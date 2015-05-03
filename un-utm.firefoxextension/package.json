@@ -1,12 +1,12 @@
 {
   "name": "un-utm",
-  "title": "un-utm",
+  "title": "un-UTM",
   "id": "jid1-rZwsXyNsB0yX5w",
-  "description": "Remove utm_ params from your address bar",
+  "description": "Get rid of the ugly utm_source query params in your url bar.",
   "author": "Joseph Schmitt",
   "contributors": [
     "Andrew Lorente <hello@andrewlorente.com> (https://www.andrewlorente.com)"
   ],
   "license": "??",
-  "version": "0.1"
+  "version": "1.1"
 }
