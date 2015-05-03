@@ -1,0 +1,12 @@
+{
+  "name": "un-utm",
+  "title": "un-utm",
+  "id": "jid1-rZwsXyNsB0yX5w",
+  "description": "Remove utm_ params from your address bar",
+  "author": "Joseph Schmitt",
+  "contributors": [
+    "Andrew Lorente <hello@andrewlorente.com> (https://www.andrewlorente.com)"
+  ],
+  "license": "??",
+  "version": "0.1"
+}
